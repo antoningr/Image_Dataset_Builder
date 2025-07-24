@@ -18,7 +18,7 @@ Perfect for AI, machine learning, computer vision projects or data augmentation 
 - 🛠️ CLI script packaged with `setup.py` for installable tool
 
 
-## Installation & Run (with a CLI)
+## Installation & Run (in a CLI)
 
 1. Clone this repository:
 ```bash
@@ -41,10 +41,13 @@ python image_dataset_builder.py
 
 
 ## CLI Example Run
+
 === Image Dataset Builder ===
 
 Enter your search queries (comma-separated): forest fire, forest
+
 How many images per query? (default = 10): 20
+
 Convert all images to JPG? (y/n): y
 
 
