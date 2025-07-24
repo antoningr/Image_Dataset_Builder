@@ -1,0 +1,4 @@
+ddgs
+pillow
+requests
+matplotlib
